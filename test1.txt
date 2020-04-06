@@ -1,0 +1,6 @@
+this is sample git 
+
+ git commit -m "first commit" test.txt
+this is sample git 
+this is sample git 
+this is sample git 
